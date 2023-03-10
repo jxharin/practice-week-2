@@ -1,4 +1,4 @@
 #include <stdio.h>
-int plus(int x, int y) {
+int division(int x, int y) {
 return x / y;
 }
